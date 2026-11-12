@@ -1,4 +1,4 @@
-package com.example.SpringBootFilters.filters;
+package com.example.crudSpringBootDemo.filters;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
